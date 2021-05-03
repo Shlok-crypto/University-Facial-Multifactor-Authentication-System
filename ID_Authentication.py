@@ -80,10 +80,8 @@ def faceTrainerID():
 
     name, id, DIR = facestorage()
 
-    #people = ['Ansh','Biden','MakedPerson','Manjusha','Manmohan','modi','Obama','shlok','TomCruise']
+    #people = ['Ansh','Biden','MakedPerson','Manmohan','modi','Obama','shlok','TomCruise']
     people = [name]
-    #DIR = r'C:\Users\Linh\Documents\Opencv\FaceRec'
-
     features = []
     labels =[]
 
@@ -166,7 +164,7 @@ def faceRecVideoID():
     #hard_cascade = cv.CascadeClassifier('Hard_Face.xml')
 #make changes hereeeeeeeeeeee
     #@##$#$##%#%%#%
-    #people = ['ansh','Biden','MakedPerson','Manjusha','Manmohan','Modi','Obama','shlok','TomCruise']
+    #people = ['ansh','Biden','MakedPerson','Manmohan','Modi','Obama','shlok','TomCruise']
     people = [name]
 
     face_recognizer = cv.face.LBPHFaceRecognizer_create()
