@@ -227,7 +227,7 @@ def admin_control():
     password = input("Admin Password:==> ")
 
 #Contains Admin name & password
-    Adminstrator = {"admin":"admin","shlok":"w71acap9"}
+    Adminstrator = {"admin":"admin","User1":"pass"}
 
 # Authenticating Admin name & password
     if Admin in Adminstrator:
