@@ -13,7 +13,7 @@ I have created a GUI Bassed **Contactless Access Control, *Facial Authentication
 * **Confidence Level**
 	* **Access Granted/Denied**
 
-**$$How the Software Works :)$$**
+# **How the Software Works :)**
 
 * ***Information Gathering =>***
 
@@ -31,11 +31,11 @@ I have created a GUI Bassed **Contactless Access Control, *Facial Authentication
 	The Authentication system analysis the input ROI(LBPH) against a set of prerecorded  LBPH data of the POI. The Software outputs a confidence level. 
 	The Threshold value of the confidence level determines Access Granted or Access Denied
 
-***Gui Based Admin Control=>***
+# **Gui Based Admin Control**
 
 The software is GUI-based, allowing a user-friendly experience.
 
-* ***Admin Controll***
+* **Admin Controll**
 	* Add New User Data 
 	*	Delete User Data
 	* Train New Data	
