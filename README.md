@@ -8,6 +8,8 @@ I have created a GUI Bassed **Contactless Access Control, *Facial Authentication
 	* Unique Id Number
 	* Other information
 *	**Live Video**
+	* Face Recognition 
+	* Face Authentication
 
 **Output:**
 * **Confidence Level**
